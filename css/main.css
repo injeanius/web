@@ -1,4 +1,14 @@
+.down {
+	font-size: 40px;
+	float: right;
+	display: block;
+	border: 5px black solid;
+	width: 40px;
+	text-align: center;
+}
+
 body { 
+margin: 0;
 font-family: 'Kristi', cursive;
 font-family: 'Alegreya Sans SC', sans-serif;
 font-family: 'BenchNine', sans-serif;
@@ -9,7 +19,6 @@ font-family: 'Shadows Into Light', cursive;
 font-family: 'Calligraffitti', cursive;
 font-family: 'Tangerine', cursive;
 font-family: 'Just Me Again Down Here', cursive;
-font-family: 'Open Sans Condensed', sans-serif;
 font-family: 'Inconsolata', ;
 font-family: 'Special Elite', cursive;
 font-family: 'Voltaire', sans-serif;
@@ -28,8 +37,99 @@ font-size: 20px;
 
 }
 
+#left-pane {
+	clear: none;
+	padding-top: 100px;
+	width: 600px;
+	height: 800px;
+	border-right: 10px dotted black;
+}
+
+#right-pane {
+
+	float: right;
+	border-left: 40px double yellow;
+	width: 600px;
+	padding-top: 600px;
+	clear: none;
+	height: 600px;
+}
+
+#bottom-pane {
+
+	background-color: yellow;
+	height: 500px;
+	text-align: center;
+font-family:	 'Amatic SC', cursive;
+
+}
+
 logo {
 font-family: 'Rock Salt', cursive;
 font-size: 20px;
+}
 
+.top-logo {
+	float: right;
+}
+
+#top-header{
+	width:100%;
+	border-bottom: 10px black solid;
+	position: fixed;
+	background-color: #fff;
+}
+
+nav {
+float: right;
+font-family: 'Reenie Beanie', cursive;
+
+font-family: 'Shadows Into Light', cursive;
+
+font-family: 'Josefin Slab', serif;
+
+
+font-family: 'Kristi', cursive;
+font-family: 'Alegreya Sans SC', sans-serif;
+font-family: 'BenchNine', sans-serif;
+font-family: 'Give You Glory', cursive;
+font-family: 'Cabin Sketch', cursive;
+font-family: 'Reenie Beanie', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Calligraffitti', cursive;
+font-family: 'Tangerine', cursive;
+font-family: 'Just Me Again Down Here', cursive;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Inconsolata', ;
+font-family: 'Special Elite', cursive;
+font-family: 'Voltaire', sans-serif;
+font-family:	 'Amatic SC', cursive;
+
+font-size: 20px;
+
+}
+
+nav ul li {
+	list-style: none;
+	float: left;
+}
+
+section {
+
+font-family: 'Alegreya Sans SC', sans-serif;
+font-family: 'BenchNine', sans-serif;
+font-family: 'Calligraffitti', cursive;
+font-family: 'Just Me Again Down Here', cursive;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Inconsolata', ;
+font-family: 'Special Elite', cursive;
+
+font-size: 50px;
+}
+
+#about_section {
+background-color: gray;
+height: 1000px;
+font-family: 'Shadows Into Light', cursive;
+text-align: center;
 }
