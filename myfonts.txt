@@ -1,0 +1,36 @@
+<link href='http://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:400,700,900,400italic,700italic,900italic|PT+Mono|Walter+Turncoat|Just+Me+Again+Down+Here' rel='stylesheet' type='text/css'>
+font-family: 'Permanent Marker', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'PT Mono', ;
+font-family: 'Walter Turncoat', cursive;
+font-family: 'Just Me Again Down Here', cursive;
+
+
+
+
+<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Kristi|BenchNine|Give+You+Glory|Cabin+Sketch|Reenie+Beanie|Shadows+Into+Light|Calligraffitti|Tangerine|Just+Me+Again+Down+Here|Open+Sans+Condensed:300|Inconsolata|Special+Elite|Rock+Salt|Voltaire|Amatic+SC|Nothing+You+Could+Do|Julius+Sans+One' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Yellowtail|Waiting+for+the+Sunrise|Reenie+Beanie|Shadows+Into+Light|Josefin+Slab|Pacifico|Dancing+Script|Rock+Salt|Kaushan+Script' rel='stylesheet' type='text/css'>
+
+font-family: 'Reenie Beanie', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Josefin Slab', serif;
+font-family: 'Kristi', cursive;
+font-family: 'Alegreya Sans SC', sans-serif;
+font-family: 'BenchNine', sans-serif;
+font-family: 'Give You Glory', cursive;
+font-family: 'Cabin Sketch', cursive;
+font-family: 'Reenie Beanie', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Calligraffitti', cursive;
+font-family: 'Tangerine', cursive;
+font-family: 'Just Me Again Down Here', cursive;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Inconsolata', ;
+font-family: 'Special Elite', cursive;
+font-family: 'Voltaire', sans-serif;
+font-family:	 'Amatic SC', cursive;
+
+
+font-family: 'Waiting for the Sunrise', cursive;
+font-family: 'Yellowtail', cursive;
+font-family: 'Kaushan Script', cursive;

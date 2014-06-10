@@ -1,135 +1,154 @@
-.down {
-	font-size: 40px;
-	float: right;
-	display: block;
-	border: 5px black solid;
-	width: 40px;
-	text-align: center;
-}
-
 body { 
-margin: 0;
-font-family: 'Kristi', cursive;
-font-family: 'Alegreya Sans SC', sans-serif;
-font-family: 'BenchNine', sans-serif;
-font-family: 'Give You Glory', cursive;
-font-family: 'Cabin Sketch', cursive;
-font-family: 'Reenie Beanie', cursive;
-font-family: 'Shadows Into Light', cursive;
-font-family: 'Calligraffitti', cursive;
-font-family: 'Tangerine', cursive;
-font-family: 'Just Me Again Down Here', cursive;
-font-family: 'Inconsolata', ;
-font-family: 'Special Elite', cursive;
-font-family: 'Voltaire', sans-serif;
-font-family: 'Amatic SC', cursive;
-font-family: 'Nothing You Could Do', cursive;
-font-family: 'Julius Sans One', sans-serif;
-font-family: 'Dancing Script', cursive;
-font-family: 'Pacifico', cursive;
-font-family: 'Josefin Slab', serif;
-font-family: 'Shadows Into Light', cursive;
-font-family: 'Reenie Beanie', cursive;
-font-family: 'Waiting for the Sunrise', cursive;
-font-family: 'Yellowtail', cursive;
-font-family: 'Kaushan Script', cursive;
-font-size: 20px;
-
+	margin: 0;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 15px;
 }
 
-#left-pane {
-	clear: none;
-	padding-top: 100px;
-	width: 600px;
-	height: 800px;
-	border-right: 10px dotted black;
+#logo {
+	font-weight: bolder;
+	font-style: italic;
+	font-family: 'Playfair Display', serif;
+	text-align: center;	
+	letter-spacing: -5px;
+	float: left;
 }
 
-#right-pane {
-
-	float: right;
-	border-left: 40px double yellow;
-	width: 600px;
-	padding-top: 600px;
-	clear: none;
-	height: 600px;
-}
-
-#bottom-pane {
-
-	background-color: yellow;
-	height: 500px;
+a {
+	margin: auto;
+	display: block;
+	border: 1px black solid;
+	width: 100px;
+	text-decoration: none;
 	text-align: center;
-font-family:	 'Amatic SC', cursive;
+	color: black;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	text-transform: lowercase;
+}
+
+a:hover {
+	display: block;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Alegreya Sans SC', sans-serif;
 
 }
 
-logo {
-font-family: 'Rock Salt', cursive;
-font-size: 20px;
-}
-
-.top-logo {
-	float: right;
+article {
+	font-size: 45px;	
+	text-align: center;	
+	font-family: 'Playfair Display', serif;
+	text-align: center;	
 }
 
 #top-header{
 	width:100%;
-	border-bottom: 10px black solid;
+	border-bottom: 5px black solid;
 	position: fixed;
+	height: 50px;
 	background-color: #fff;
 }
 
-nav {
-float: right;
-font-family: 'Reenie Beanie', cursive;
 
-font-family: 'Shadows Into Light', cursive;
+#main {
+	padding-top: 100px;
+	width: 100%;
+	height: 800px;
+	text-align: center;
+	font-family: 'Alegreya Sans SC', sans-serif;	
+	font-size: 16px;
+	margin: auto;
+}	
 
-font-family: 'Josefin Slab', serif;
+
+#about {
+	padding-top: 100px;
+	width: 100%;
+	height: 800px;
+	text-align: center;
+	font-family: 'Alegreya Sans SC', sans-serif;	
+	font-size: 16px;
+	margin: auto;
+}	
 
 
-font-family: 'Kristi', cursive;
-font-family: 'Alegreya Sans SC', sans-serif;
-font-family: 'BenchNine', sans-serif;
-font-family: 'Give You Glory', cursive;
-font-family: 'Cabin Sketch', cursive;
-font-family: 'Reenie Beanie', cursive;
-font-family: 'Shadows Into Light', cursive;
-font-family: 'Calligraffitti', cursive;
-font-family: 'Tangerine', cursive;
-font-family: 'Just Me Again Down Here', cursive;
-font-family: 'Open Sans Condensed', sans-serif;
-font-family: 'Inconsolata', ;
-font-family: 'Special Elite', cursive;
-font-family: 'Voltaire', sans-serif;
-font-family:	 'Amatic SC', cursive;
-
-font-size: 20px;
-
+#inspiration {
+	padding-top: 100px;
+	width: 60%;
+	height: 800px;
+	text-align: center;
+	font-family: 'Alegreya Sans SC', sans-serif;	
+	font-size: 16px;
+	margin: auto;
 }
 
-nav ul li {
-	list-style: none;
+
+
+#work {
+	padding-top: 100px;
+	width: 50%;
+	height: 800px;
+	text-align: center;
+	font-family: 'Alegreya Sans SC', sans-serif;	
+	font-size: 16px;
+	margin: auto;
+}	
+
+#contact {
+	background-color: yellow;
+	height: 500px;
+	text-align: center;
+	width: 100%;
+	font-family: 'Alegreya Sans SC', sans-serif;	
+	font-size: 16px;
+	margin: auto;
+	padding-top: 20px;
+
+}	
+
+#contact article {
+	width: 70%;
+	text-align: center;
+	margin: auto;
+}
+
+
+nav {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 15px;
+	margin: auto;
+}
+
+nav ul {
+
+	float: left;
+	list-style-type: none;
+}
+
+
+li {
+	list-style-type: none;
 	float: left;
 }
 
-section {
 
-font-family: 'Alegreya Sans SC', sans-serif;
-font-family: 'BenchNine', sans-serif;
-font-family: 'Calligraffitti', cursive;
-font-family: 'Just Me Again Down Here', cursive;
+
+
+section {
 font-family: 'Open Sans Condensed', sans-serif;
 font-family: 'Inconsolata', ;
-font-family: 'Special Elite', cursive;
-
+font-family: 'Rock Salt', cursive;
+font-family: 'Kristi', cursive;
+font-family: 'Voltaire', sans-serif;
 font-size: 50px;
+
 }
 
 #about_section {
 background-color: gray;
 height: 1000px;
-font-family: 'Shadows Into Light', cursive;
+font-family: 'Special Elite', cursive;
+
 text-align: center;
 }
